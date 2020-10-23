@@ -85,7 +85,8 @@ Como las etiquetas se pueden ubicar tanto en la sección de datos como en la de 
 Las directivas son expresiones que aparecen en el módulo fuente e indican al
 compilador que realice determinadas tareas en el proceso de compilación. Son fácilmente distinguibles de las instrucciones porque siempre comienzan con un punto.
 
-## Corrida de programas de ensamblador en el QEMUtttg
+## Corrida de programas de ensamblador en el QEMU
+
 # Capitulo 2
 ## Modos de direccionamiento del ARM
 En la arquitectura ARM los accesos a memoria se hacen mediante instrucciones específicas ldr y str (luego veremos las variantes ldm, stm y las preprocesadas push. En la arquitectura ARM los accesos a memoria se hacen mediante instrucciones específicas ldr y str (luego veremos las variantes ldm, stm y las preprocesadas push.
