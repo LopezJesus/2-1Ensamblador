@@ -17,4 +17,11 @@ Como son de propósito especial, tienen nombres alternativos
 - LR/R14. Link Register ó Registro de Enlace.
 - PC/R15. Program Counter ó Contador de Programa.
 
+**Registro CPSR.** Almacena las banderas condicionales y los bits de control. Existen 4 banderas y son las siguientes:
+- N. Se activa cuando el resultado es negativo.
+- Z. Se activa cuando el resultado es cero o una comparación es cierta.
+- C. Indica acarreo en las operaciones aritméticas.
+- V. Desbordamiento aritmético.
+
+
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
