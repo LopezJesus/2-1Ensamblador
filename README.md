@@ -87,6 +87,16 @@ compilador que realice determinadas tareas en el proceso de compilación. Son f�
 
 ## Corrida de programas de ensamblador en el QEMU
 
+![](imagenes/rpi.PNG)
+
+![](imagenes/rpi1.PNG)
+
+![](imagenes/rpi2.PNG)
+
+![](imagenes/rpi3.PNG)
+
+Estos pasos son aplicables para los programas que fueron utilizados en estos dos capitulos.
+
 # Capitulo 2
 ## Modos de direccionamiento del ARM
 En la arquitectura ARM los accesos a memoria se hacen mediante instrucciones específicas ldr y str (luego veremos las variantes ldm, stm y las preprocesadas push. En la arquitectura ARM los accesos a memoria se hacen mediante instrucciones específicas ldr y str (luego veremos las variantes ldm, stm y las preprocesadas push.
