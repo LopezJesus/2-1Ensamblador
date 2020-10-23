@@ -1,3 +1,24 @@
+![](imagenes/portadatcnm.png)
+#    Tecnológico Nacional de México
+#   Instituto Tecnológico de Tijuana
+#        Subdirección Académica
+
+# Departamento de Sistemas y Computación
+# Ingeniería en Sistemas Computacionales
+# Lenguajes de interfaz 
+
+# Practica Bloque: 2
+# Objetivo: Lectura y ejercicios de ARM32 del ebook OpenSource
+
+
+# López Galaz Jesús Xavier 18212208
+   
+
+# Profesor:
+# MC. René Solis Reyes
+# Semestre sep - ene 2020
+
+
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5474786.png" width="1207" height="174" alt="2.1 Lectura y ejercicios de ARM32 
 del ebook OpenSource" /></a>
 # Capitulo 1
