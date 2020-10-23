@@ -60,6 +60,10 @@ Como las etiquetas se pueden ubicar tanto en la sección de datos como en la de 
 - **Instrucciones de manejo de bits.** Realizan operaciones de desplazamiento, rotación y lógicas sobre registros o posiciones de memoria. Están en este grupo las instrucciones: and, tst, eor, orr, LSL, LSR, ASR, ROR, RRX.
 - **Instrucciones de transferencia de control.** Se utilizan para controlar el flujo de ejecución de las instrucciones del programa. Tales como b, bl, bx, blx y sus variantes condicionales.
 
+## Directivas
+Las directivas son expresiones que aparecen en el módulo fuente e indican al
+compilador que realice determinadas tareas en el proceso de compilación. Son fácilmente distinguibles de las instrucciones porque siempre comienzan con un punto.
+
 ## Bibliografia
 Antonio José Villena Godoy. (2014). PRÁCTICAS DE ENSAMBLADOR BASADAS EN RASPBERRY PI. 23 de Octubre del 2020, de UNIVERSIDAD DE MÁLAGA Sitio web: https://riuma.uma.es/xmlui/bitstream/handle/10630/10214/LibroDePracticas.pdf?sequence=1&isAllowed=y
 
